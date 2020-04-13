@@ -1,0 +1,8 @@
+{
+    "default": {
+        "user": "presto",
+        "host": "34.74.56.14",
+        "catalog": "hive",
+        "schema": "leap"
+    }
+}
