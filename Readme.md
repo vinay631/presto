@@ -42,4 +42,4 @@ $ npm install
 $ node ./1uphealth_challenge.js {firstname} {lastname}
 ```
 
-You can find the sql query at: `node_solution/queries/allergyinfo.sql`. 
+You can find the sql query at: `node_solution/queries/allergyinfo.js`. 
