@@ -22,7 +22,7 @@ $ pip install -r requirements.txt
 ```
 2. Execute the script:
 ```
-$ python 1uphealth_challenge.py {firstname} {lastname} Zboncak558
+$ python 1uphealth_challenge.py {firstname} {lastname}
 ```
 
 The sql query can be found at: `python_solution/sql/allergyinfo.sql`.
